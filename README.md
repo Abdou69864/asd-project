@@ -1,4 +1,4 @@
-this a the firest projet of the course asd 2:
+**this a the first projet of the course asd 2:**
 
 The objective of this mini-project is to implement five programs using five different sorting algorithms to sort an array. These algorithms are:
 
@@ -10,9 +10,9 @@ The objective of this mini-project is to implement five programs using five diff
 
 The requirements for each program are:
 
-• Calculate the number of operations.
-• Determine the time complexity.
-• Measure the execution time.
+-• Calculate the number of operations.
+-• Determine the time complexity.
+-:• Measure the execution time.
 
 Finally:
-:Conduct a comparative analysis of the five sorting algorithms and determine the most efficient method for sorting an array based on the obtained results.
+Conduct a comparative analysis of the five sorting algorithms and determine the most efficient method for sorting an array based on the obtained results.
