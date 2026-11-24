@@ -9,13 +9,4 @@ void bubbleSort(int arr[], int length) {
       }
     }
   }};
-  int main() {
-    int arr[] = {64, 34, 25, 12, 22, 11, 90};
-    int length = sizeof(arr) / sizeof(arr[0]);
 
-    bubbleSort(arr, length);
-    for (int i = 0; i < length; i++) {
-      printf("%d ", arr[i]);
-    }
-    return 0;
-  }
